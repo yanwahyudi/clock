@@ -61,3 +61,8 @@
   .wrapper span:last-child{
     filter: blur(20px);
   }
+
+  .display .h3 .tex-color
+  {
+    color: #ff00e0;
+  }
